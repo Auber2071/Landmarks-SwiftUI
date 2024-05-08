@@ -1,5 +1,6 @@
 # Landmarks-SwiftUI
 
 ![Landmarks](assets/Landmarks.png)
-[Landmarks.mp4](assets/Landmarks.mp4)
+
+![Landmarks-list](assets/Landmarks-list.png)
 
